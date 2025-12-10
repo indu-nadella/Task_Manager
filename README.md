@@ -1,8 +1,10 @@
 ***Task Manager API (Django)***
+
 A simple Django REST API for managing tasks with JWT authentication and role-based access (Admin/User).
 Users can create and manage their own tasks, while admins can view all tasks.
 
 ***Features***
+
 1. User registration
 2. Login using JWT
 3. Create, view, update and delete tasks
@@ -10,6 +12,7 @@ Users can create and manage their own tasks, while admins can view all tasks.
 5. Admin can see every user's tasks
 
 ***How to run***
+
 1. Create a virtual environment and install requirement:
    pip freeze > requirements.txt  or pip install -r requirements.txt
 2. Apply migrations:
