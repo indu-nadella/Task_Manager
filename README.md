@@ -18,6 +18,7 @@ Users can create and manage their own tasks, while admins can view all tasks.
    python manage.py runserver
 
 ***API Endpoints***
+
 Auth:
 1. POST/auth/register
 2. POST/auth/login
